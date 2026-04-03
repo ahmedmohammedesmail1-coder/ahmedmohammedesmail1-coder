@@ -51,9 +51,10 @@
   <a href="https://github.com/ahmedmohammedesmail1-coder">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
+   📱 WhatsApp: [Chat with me](https://wa.me/201118522317)
   <a href="https://linkedin.com/in/ahmed-esmail-7533122b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-    📱 WhatsApp: [Chat with me](https://wa.me/201118522317)
+   
   </a>
 <br><br>
   ✉️ ahmed.mohammed.esmail1@gmail.com<br>

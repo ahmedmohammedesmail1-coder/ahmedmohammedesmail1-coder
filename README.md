@@ -59,6 +59,6 @@
    
   </a>
 <br><br>
- 
+ [✉️ Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=ahmed.mohammed.esmail1@gmail.com)
 </p>
-[✉️ Email Me](mailto:ahmed.mohammed.esmail1@gmail.com)
+

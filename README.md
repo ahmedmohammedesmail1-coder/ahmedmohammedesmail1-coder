@@ -59,6 +59,5 @@
    
   </a>
 <br><br>
-  ✉️ ahmed.mohammed.esmail1@gmail.com<br>
-  📞 +20 111 852 2317
+ [✉️ Email Me](mailto:ahmed.mohammed.esmail1@gmail.com)
 </p>

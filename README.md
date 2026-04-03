@@ -43,9 +43,6 @@
    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmed.mohammed.esmail1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/ahmedmohammedesmail1-coder">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-  </a>
   <a href="https://wa.me/201118522317" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>

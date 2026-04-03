@@ -1,33 +1,44 @@
-# Hi 👋, I'm Ahmed
+<h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
+<h3 align="center">Flutter Developer 🚀</h3>
 
-Flutter Developer passionate about building mobile applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+App+Enthusiast;Clean+Code+Lover;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 🚀 About Me
 - 💻 Flutter Developer  
 - 🔥 2+ years learning Flutter  
-- 📱 Building mobile apps using clean architecture  
-- ⚡ Always learning new technologies  
+- 📱 Building scalable mobile apps  
+- ⚡ Passionate about Clean Architecture & Performance  
 
 ---
 
-## 🛠 Skills
-- Flutter & Dart  
-- Firebase  
-- REST APIs  
-- Cubit / Bloc  
-- Clean Architecture  
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" />
+</p>
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 - 🛒 Store App  
 - 📰 News App  
 - 💬 Chat App  
 
 ---
 
-## 📫 Contact Me
-- Email: ahmed.mohammed.esmail1@gmail.com  
-- GitHub: https://github.com/a7medesmail
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a7medesmail&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medesmail&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://github.com/a7medesmail"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/ahmed-esmail-7533122b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+</p>

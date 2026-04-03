@@ -55,7 +55,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
   <br><br>
-  ✉️ <a href="ahmed.mohammed.esmail1@gmail.com
-">ahmed.mohammed.esmail1@gmail.com</a><br>
-  📞 <a href="tel:+201118522317">+20 111 852 2317</a>
+  ✉️ ahmed.mohammed.esmail1@gmail.com<br>
+  📞 +20 111 852 2317
 </p>

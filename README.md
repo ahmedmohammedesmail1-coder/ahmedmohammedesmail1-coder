@@ -38,14 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7medesmail&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medesmail&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect with Me
 <p align="center">
    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmed.mohammed.esmail1@gmail.com">

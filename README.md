@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+App+Enthusiast;Clean+Code+Lover;Always+Learning+New+Things&center=true&width=500&height=50">
-  lines=Flutter+Developer;Mobile+App+Enthusiast;Clean+Code+Lover;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---

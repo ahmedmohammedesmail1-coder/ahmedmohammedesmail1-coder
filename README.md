@@ -24,12 +24,7 @@
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" />
-</p>
 
----
 
 ## 📂 Featured Projects
 - 🛒 Store App  
